@@ -1,0 +1,18 @@
+# Letras Diferentes y Conversor de Letras Bonitas
+> Generador de fuentes Unicode para copiar y pegar en Instagram, TikTok, WhatsApp y apodos
+
+## Resumen del Proyecto
+Letras Diferentes es una herramienta web ligera y sin dependencias, diseñada para transformar texto normal en caracteres alfanuméricos especiales de Unicode (cursivas, góticas, negritas, doble trazo y estéticas) listos para copiar con un solo clic.
+
+## URL Canónica
+https://ahmedelazabdev.github.io/letrasdiferentes/
+
+## Características Principales
+- Conversión en tiempo real a más de 30 estilos tipográficos Unicode.
+- Filtrado por categorías: Todas, Cursivas, Negritas, Góticas y Decoradas (Aesthetic).
+- Botón de copia directa al portapapeles en cada estilo con confirmación visual instantánea.
+- 100% Privado y en el lado del cliente (Client-Side): El texto nunca se envía a servidores externos.
+- Compatibilidad garantizada en biografías de Instagram, descripciones de TikTok, estados de WhatsApp y apodos de Free Fire.
+
+## Audiencia Objetivo
+Creadores de contenido, usuarios de redes sociales, gamers que personalizan sus nicks y diseñadores de perfiles digitales.
